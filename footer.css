@@ -1,0 +1,25 @@
+footer{
+    background-color: #0c2340;
+     color: white;
+    font-size: smaller;
+    padding: 10px;
+ }
+ footer a{
+     text-decoration: none;
+     color: white;
+ }
+ .foot{
+     display: flex;
+     width:100%;
+     justify-content: space-around;
+ }
+ .foot1,.foot2{
+     display: flex;
+     justify-content: space-around;
+ 
+ }
+ footer input{
+     background-color: rgb(47, 18, 68) ;
+     color: white;
+     width:200px;
+ }

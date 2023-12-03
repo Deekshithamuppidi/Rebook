@@ -1,0 +1,84 @@
+@import url(./main.css);
+/* body{
+    font-family: Neue Plak Regular !important;
+    font-family: Inter !important;
+} */
+body{
+    color: #0c2340;
+    
+}
+.class1{
+   
+    color: #0c2340;
+    transform:translateX(20px);
+    
+}
+#redbutton{
+    background-color: #c40c2f;
+    color: white;
+    width:300px !important;
+    height: 50px !important;
+    font-size: small;
+    border-radius: 25px;
+}
+ .refer{
+    position: absolute;
+    top:70px;
+    left: 290px;
+} 
+main section{
+    padding:30px;
+    margin: 30px;
+}
+.new1{
+    color: #0c2340 !important;
+    font-weight: bolder !important;
+}
+.head1{
+    display: flex;
+    width:180px;
+    justify-content: space-between;
+}
+.btn{
+    background-color: black;
+    border-color: black;
+}
+#navi{
+    background-color: white;
+    color: #475d78;
+   border-color: white;
+   font-weight: bolder !important;
+   font-size: 16px;
+}
+#nav1{
+    color: #0c2340 !important; 
+    background-color: white;
+    color: #475d78;
+   border-color: white;
+   font-weight: bolder !important;
+   font-size: 16px;
+}
+#navi:hover,.nav2 h5{
+    color: #0c2340 !important; 
+}
+.nav2{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 400;
+    color:#4b4e52 ;
+}
+.links{
+    position: relative;
+    top:-100px;
+    left:300px;
+    display: flex;
+    justify-content: space-between;
+    width:500px;
+    color: white;
+}
+.links a{
+    color: white;
+}
+#search1{
+transform: translate(750px,-50px);
+}

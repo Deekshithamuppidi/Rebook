@@ -1,0 +1,106 @@
+@import url(./footer.css);
+main .sec3{
+    height: inherit;
+    width:99%;
+    margin: auto;
+}
+#mar{
+    margin-top: 20px;
+}
+#sec1{
+    background-color: rgb(14, 14, 14);
+}
+#sec1 a{
+    color: white;
+    text-decoration: none;
+}
+.head2{
+    color: white;
+    display: float;
+    float: right;
+    display: flex;
+    width:400px;
+    justify-content: space-between;
+    transform: translateY(-40px)
+
+}
+.carousel-item{
+    height: 600px;
+}
+.sec04{
+    display: flex;
+    width:500px;
+    justify-content: space-between;
+}
+.sec04 a{
+    color: #0c2340;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.sec04 a:hover{
+    color: #0c2340;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+}
+.sec4{
+    height: inherit;
+    width:80%;
+    margin: auto;
+}
+.cards{
+    display: flex;
+    gap: 20px;
+}
+.img01{
+    transform: translateX(-100px);
+    margin:20px;
+}
+.sec7 div{
+    text-align: center;
+    font-size: 30px;
+}
+.sec7 h1{
+    font-size: 90px;
+}
+.sec7 button{
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    border-color: white;
+   text-shadow: 5px 2px 0px white;
+    
+}
+#sec5{
+   transform: translateY(20px);
+}
+.sec6{
+    display: flex;
+    justify-content: space-around;
+    height: 70px;
+    margin-left: 70px ;
+}
+.sec6 img{
+    height: 100px;
+}
+.sec6 p{
+    text-align: center;
+    position: relative;
+    top:-20px;
+    left: -20px;
+}
+.sec7{
+    height:500px;
+    background-color: #c40c2f;
+    color: white;
+    padding:60px;
+    transform: translateY(-100px);
+}
+.gap1{
+    height: inherit;
+    width:85%;
+    margin: auto;
+}
+
